@@ -1,0 +1,6 @@
+Training samples: 142,791
+Validation samples: 35,698
+Test samples: 44,623
+Features: 68
+Classes: ['BENIGN', 'DDoS']
+Class weights: {np.int64(0): np.float64(1.1730718675035325), np.int64(1): np.float64(0.8714313613006384)}

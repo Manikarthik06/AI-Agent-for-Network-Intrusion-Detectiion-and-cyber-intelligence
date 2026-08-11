@@ -1,0 +1,14 @@
+# Large datasets
+data/raw/*.csv
+
+# Generated processed data
+data/processed/*.csv
+data/processed/*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
