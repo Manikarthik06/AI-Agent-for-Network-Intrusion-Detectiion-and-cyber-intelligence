@@ -29,6 +29,7 @@ Bwd IAT Std
 Bwd IAT Max
 Bwd IAT Min
 Fwd PSH Flags
+Fwd URG Flags
 Fwd Header Length
 Bwd Header Length
 Fwd Packets/s
@@ -44,6 +45,7 @@ RST Flag Count
 PSH Flag Count
 ACK Flag Count
 URG Flag Count
+CWE Flag Count
 ECE Flag Count
 Down/Up Ratio
 Average Packet Size
